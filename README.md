@@ -93,8 +93,14 @@ We found this configuration offers a strong tradeoff between generalization and 
 ### Visual Insights
 
 - **Training Curve** – Stable convergence within 4 epochs.
+- ![image](https://github.com/user-attachments/assets/359c94b7-9892-463c-bc6b-894622ecebd4)
+
 - **Validation Accuracy** – Peaked early due to effective early stopping.
+- ![image](https://github.com/user-attachments/assets/355be91a-24d9-424a-8cb4-9ae42f2b1910)
+
 - **Confusion Matrix** – Misclassifications mainly between Business & Sci/Tech.
+- ![image](https://github.com/user-attachments/assets/15b335e7-9877-45d7-8f29-fc6be37bce00)
+
 - **Prediction Confidence**:
   - >90% confidence for 64.7% of predictions
   - Min confidence: 0.526, Max: 0.996
